@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/sample-logo.png" alt="osTicket logo"/>
+<img src="assets/sample-logo.png" alt="sample logo"/>
 </p>
 
 # Project Page Title
