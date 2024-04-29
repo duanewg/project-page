@@ -13,8 +13,8 @@ This is where you would type a sentence giving a high level overview of the proj
 ## Environments and Technologies Used
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+- AWS
+- Proxmox Virtualization Environment
 
 ## Operating Systems Used
 
