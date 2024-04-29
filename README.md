@@ -8,7 +8,7 @@ This is where you would type a sentence giving a high level overview of the proj
 
 ## Video Demonstration
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [YouTube: How To ...](https://www.youtube.com)
 
 ## Environments and Technologies Used
 
