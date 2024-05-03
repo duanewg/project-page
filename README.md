@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://place-hold.it/500x300" alt="Alt Text There"/>
+<img src="https://place-hold.it/500x300" alt="Place Holder Image"/>
+<!-- <img src="assets/logo.svg" alt="Logo Text There" /> -->
 </p>
 
 # Project Title
