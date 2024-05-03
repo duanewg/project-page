@@ -1,49 +1,30 @@
 <p align="center">
-<img src="assets/sample-logo.png" alt="sample logo"/>
+<img src="assets/Intuit_QuickBooks_logo.svg" alt="Quickbooks"/>
 </p>
 
-# Project Page Title
-This is where you would type a sentence giving a high level overview of the project.
-
-
-## Video Demonstration
-
-- ### [YouTube: How To ...](https://www.youtube.com)
+# Project Title
+"[Project Name]" involves [briefly describe the main objective or purpose of the project] utilizing [mention any specific tools, technologies, or platforms]. This project aims to [mention the primary goal or outcome] to [highlight the intended impact or benefit].
 
 ## Environments and Technologies Used
-
-- Microsoft Azure (Virtual Machines/Compute)
-- AWS
-- Proxmox Virtualization Environment
-
-## Operating Systems Used
-
-- Windows 10</b> (21H2)
-
-## List of Prerequisites
 
 - Item 1
 - Item 2
 - Item 3
-- Item 4
-- Item 5
 
-<h2>Installation Steps</h2>
+## Operating Systems Used
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+- Operating System Name
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+## High-Level Deployment and Configuration Steps
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+- Step 1
+- Step 2
+- Step 3
+- Step 4
+- Step 5
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<h2>Architecture Diagram</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
