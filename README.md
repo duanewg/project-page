@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://place-hold.it/500x300" alt="Place Holder Image"/>
+<img src="https://place-hold.it/600x200" alt="Place Holder Image"/>
 <!-- <img src="assets/logo.svg" alt="Logo Text There" /> -->
 </p>
 
