@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/Intuit_QuickBooks_logo.svg" alt="Quickbooks"/>
+<img src="https://place-hold.it/500x300" alt="Alt Text There"/>
 </p>
 
 # Project Title
